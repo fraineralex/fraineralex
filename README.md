@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub profile! 👋
 
-*I'm Frainer, I'm a software engineering student, lover of new technologies and eager to learn.*
+*I'm Frainer, I'm a full stack developer, lover of new technologies and eager to learn.*
 
 **Contact me:**
 
