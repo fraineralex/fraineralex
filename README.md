@@ -5,6 +5,6 @@
 **Contact me:**
 
 - 📧 Fraineralex2001@gmail.com
-- 🔗 https://www.linkedin.com/in/frainer-alexander-encarnaci%C3%B3n-valenzuela-155821219/
+- 🔗 https://www.linkedin.com/in/frainer-encarnaci%C3%B3n-155821219/
 - 🕊️ https://twitter.com/Alex08Frainer
 
