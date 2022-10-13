@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [frainer.alex](https://github.com/Fraineralex)
 
+- 👨🏻‍🚀 Look at my professional profile at [Professional Profile](https://mnf.red/frainer)
+
 - 💬 Ask me about **Node.js, Database, among other things.**
 
 - 📫 How to reach me **fraineralex2001@gmail.com**
