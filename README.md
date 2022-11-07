@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraineralex&label=Profile%20views&color=0e75b6&style=flat" alt="fraineralex" /> </p>
 
-- 🔭 I’m currently working on **Social Network Web App**
+- 🔭 I’m currently working for the company **Nelmix Solutions**
 
-- 🌱 I’m currently learning **React.js, Next.js, Redux.js and ASP.NET**
+- 🌱 I’m currently learning **Python Odoo, React.js, Next.js, Redux.js and ASP.NET**
 
 - 👨‍💻 All of my projects are available at [frainer.alex](https://github.com/Fraineralex)
 
