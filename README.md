@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working for the company **Nelmix Solutions**
 
-- 🌱 I’m currently learning **Python Odoo, React.js, Next.js, Redux.js and ASP.NET**
+- 🌱 I’m currently learning **Python Odoo, React.js, Next.js and Redux.js.**
 
 - 👨‍💻 All of my projects are available at [frainer.alex](https://github.com/Fraineralex)
 
 - 👨🏻‍🚀 Look at my professional profile at [Professional Profile](https://mnf.red/frainer)
 
-- 💬 Ask me about **Node.js, Database, among other things.**
+- 💬 Ask me about **Node.js, ASP.NET, Database, among other things.**
 
 - 📫 How to reach me **fraineralex2001@gmail.com**
 
