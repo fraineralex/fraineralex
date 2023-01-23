@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I love to play chess and basket**
 
-- 📋 Look at my resume here [Frainer Encarnación](https://www.canva.com/design/DAFLFRn8pgM/gOh47YaCIPXUsikENY8TKQ/view?utm_content=DAFLFRn8pgM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📋 Look at my resume here [Frainer Encarnación](https://github.com/fraineralex/Fraineralex/blob/main/CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
