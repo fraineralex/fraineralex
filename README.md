@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working for the company **Nelmix Solutions**
 
-- 🌱 I’m currently learning **Python Odoo, React.js, Next.js and Redux.js.**
+- 🌱 I’m currently learning **TypeScript, React.js, Next.js and Redux.js.**
 
-- 👨‍💻 All of my projects are available at [frainer.alex](https://github.com/Fraineralex)
+- 👨‍💻 All of my projects are available at [frainer.dev](https://github.com/Fraineralex/?tab=repositories)
 
-- 👨🏻‍🚀 Look at my professional profile at [Professional Profile](https://mnf.red/frainer)
+- 👨🏻‍🚀 Look at my complete profile at [Frainer Encanración](https://mnf.red/frainer)
 
 - 💬 Ask me about **Node.js, ASP.NET, Database, among other things.**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I love to play chess and basket**
 
-- 📋 Look at my resume here [Frainer Encarnación](https://github.com/fraineralex/Fraineralex/blob/main/CV.pdf)
+- 📋 Look at my resume here [Full Stack Developer](https://drive.google.com/file/d/13Abd0Um2gDUBkZSl943HuPkfl0z2z8fs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
