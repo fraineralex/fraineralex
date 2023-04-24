@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fraineralex2001@gmail.com**
 
-- 📄 Know about my experiences [Full Stack Developer](https://drive.google.com/file/d/13Abd0Um2gDUBkZSl943HuPkfl0z2z8fs/view?usp=sharing)
+- 📄 Know about my experiences [Full Stack Developer](https://drive.google.com/file/d/1jz22piA7mALCwGKm1qZf1crubNjE4qhN/view?usp=sharing)
 
 - ⚡ Fun fact **I love to play chess, go to the gym and play basket** 
 
