@@ -1,15 +1,14 @@
-### Hi there, welcome to my GitHub profile! 👋
 <p align="center"> <img src="https://imgs.search.brave.com/n0NAUTCMj8AnSpIaQzrL5rCiAWSCj9mhsjX3Pa_zJHU/rs:fit:750:400:1/g:ce/aHR0cHM6Ly93d3cu/YWFscGhhLm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMC8x/Mi9mdWxsLXN0YWNr/LWRldmVsb3BtZW50/LmdpZg.gif" alt="Full stack developer" /> </p>
-<h1 align="center">I'm Frainer Encarnación</h1>
-<h3 align="center">I'm a Full Stack Developer, lover of new technologies and eager to learn.</h3>
+<h1 align="center">👋🏻 Hi! It's Frainer Encarnación</h1>
+<h5 align="center">I am a Full Stack Developer, specialized in web development, and a lover of all things geeky in the programming world.</h5>
 <img align="right" alt="Programming" width="400" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
 
 
 - 🔭 I’m currently working for the company **[Lifter]([https://ippdr.com/](https://lifterdo.com/))**
 
-- 🌱 I’m currently learning **AWS, TypeScript, React.js, Django**
+- 🌱 I’m currently learning **AWS and Django**
 
-- 👨‍💻 All of my projects are available at [frainer.dev](https://github.com/Fraineralex/?tab=repositories)
+- 👨‍💻 All of my projects are available at [fraineralex.dev](https://github.com/Fraineralex/?tab=repositories)
 
 - 👨🏻‍🚀 Look at my complete profile at [Frainer Encanración](https://mnf.red/frainer)
 
