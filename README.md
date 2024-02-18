@@ -11,9 +11,9 @@ I'm a full stack developer, specilized in web development, and I'm passionate ab
 <p align="left">
   <a href="https://linkedin.com/in/fraineralex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fraineralex" height="30" width="40" /></a>
   <a href="https://instagram.com/frainer.alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frainer.alex" height="30" width="40" /></a>
-<a href="https://twitter.com/fraineralex" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="fraineralex" height="30" width="30" /></a>
 <a href="https://discord.gg/fraineralex" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/threads-app-icon.png" alt="fraineralex" height="30" width="30" /></a>
 <a href="https://codepen.io/fraineralex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fraineralex" height="30" width="40" /></a>
+<a href="https://twitter.com/fraineralex" target="blank"><img align="center" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="fraineralex" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
