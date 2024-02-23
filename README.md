@@ -1,6 +1,7 @@
-<h3>Hey, I'm Frainer</h1>
-
-I'm a full stack developer, specilized in web development, and I'm passionate about building digital experiences.
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Frainer;Welcome+to+my+profile!&font=Fira%20Code&color=#007ACC&center=true&width=280&height=50">
+  <p>I'm a full stack developer, specilized in web development, and I'm passionate about building digital experiences.</p>
+</p>
 
 - Take a look at my [website](https://www.fraineralex.dev/) to find out more about me.
 - Know about xperiences in my [resume](https://www.fraineralex.dev/resume.pdf).
