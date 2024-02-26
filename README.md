@@ -32,6 +32,6 @@
 
 <div>
   <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&show_icons=true&locale=en&theme=tokyonight" alt="fraineralex" />
-  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraineralex&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=handlebars" alt="fraineralex" />
+  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraineralex&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=handlebars,mdx" alt="fraineralex" />
   <img align="rigth" height="118" src="https://github-readme-streak-stats.herokuapp.com/?user=fraineralex&&theme=tokyonight" alt="fraineralex" />
 </div>
