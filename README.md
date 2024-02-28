@@ -6,7 +6,7 @@
 - Take a look at my [website](https://www.fraineralex.dev/) to find out more about me.
 - Know about xperiences in my [resume](https://www.fraineralex.dev/resume.pdf).
 - Dive into my [blog](https://www.fraineralex.dev/blog) where I share insights and learnings.
-- I love contribute in open source projects.
+- I love contributing to open source projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
