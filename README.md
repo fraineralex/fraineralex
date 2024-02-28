@@ -30,9 +30,6 @@
 <p><a href="https://www.buymeacoffee.com/fraineralex"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fraineralex" /></a><a href="https://ko-fi.com/fraineralex"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fraineralex" /></a></p><br><br>
 <br>-->
 
-<br />
-
-
 <div>
   <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&show_icons=true&locale=en&theme=tokyonight" alt="fraineralex" />
   <img align="left" height="118" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraineralex&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide=handlebars,mdx" alt="fraineralex" />
