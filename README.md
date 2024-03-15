@@ -31,7 +31,7 @@
 <br>-->
 
 <div>
-  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&show_icons=true&theme=tokyonight&include_all_commits=true" alt="fraineralex" />
+  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&show_icons=true&theme=tokyonight" alt="fraineralex" />
   <img align="left" height="118" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraineralex&show_icons=true&locale=en&layout=compact&theme=tokyonight&count_private=true&hide=handlebars,mdx" alt="fraineralex" />
   <img align="rigth" height="118" src="https://github-readme-streak-stats.herokuapp.com/?user=fraineralex&theme=tokyonight&count_private=true" alt="fraineralex" />
 </div>
