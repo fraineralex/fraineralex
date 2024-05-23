@@ -1,6 +1,6 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Frainer;Welcome+to+my+profile!&font=Fira%20Code&color=#007ACC&center=true&width=280&height=50">
-  <p>Just a guy driven by building amazing web experiences, writing awesome Python code, and crafting cool projects, mostly in TypeScript.</p>
+  <p>Just a guy driven by building amazing web experiences, writing typesafe and scalable code, and crafting really cool projects, mostly in TypeScript and Python.</p>
 </p>
 
 - Take a look at my [website](https://www.fraineralex.dev/) to find out more about me.
