@@ -9,16 +9,15 @@
 - I love contributing to open source projects.
 - Memes and gym sessions are my jam.
 
-<h3 align="left">Contact</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fraineralex" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="fraineralex" height="30" width="40" /></a>
-<a href="https://twitter.com/fraineralex" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="fraineralex" height="30" width="30" /></a>
-<a href="https://instagram.com/frainer.alex" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="frainer.alex" height="30" width="40" /></a>
-<a href="https://discord.gg/fraineralex" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="fraineralex" height="30" width="30" /></a>
-</p>
-
-<h3 align="left">Tech Stack</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,html,css,react,nextjs,astro,nodejs,express,dotnet,tailwind,aws,firebase,vercel,docker,git,jest,selenium,sentry,cypress,redux,styledcomponents,mongodb,mysql,postgres,redis,sqlite,linux)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,html,css,react,nextjs,astro,nodejs,express,dotnet,tailwind,aws,firebase,vitest,docker,prisma,jest,selenium,sentry,graphql,redux,styledcomponents,mongodb,mysql,postgres,redis,sqlite,linux)](https://skillicons.dev) 
 
 Contact me through [LinkedIn](https://linkedin.com/in/fraineralex)  if you want to connect or get in touch. 🤝
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="fraineralex" />
+  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraineralex&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=handlebars,mdx&line_height=20" alt="fraineralex" />
+  <img align="rigth" height="118" src="https://github-readme-streak-stats.herokuapp.com/?user=fraineralex&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="fraineralex" />
+</details>
+
