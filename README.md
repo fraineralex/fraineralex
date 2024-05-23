@@ -16,8 +16,8 @@ Contact me through [LinkedIn](https://linkedin.com/in/fraineralex)  if you want 
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="fraineralex" />
-  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraineralex&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=handlebars,mdx&line_height=20" alt="fraineralex" />
-  <img align="rigth" height="118" src="https://github-readme-streak-stats.herokuapp.com/?user=fraineralex&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="fraineralex" />
+  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&theme=blueberry&count_private=true&hide_border=true" alt="fraineralex" />
+  <img align="left" height="118" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraineralex&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=handlebars,mdx" alt="fraineralex" />
+  <img align="rigth" height="118" src="https://github-readme-streak-stats.herokuapp.com/?user=fraineralex&theme=blueberry&count_private=true&hide_border=true" alt="fraineralex" />
 </details>
 
