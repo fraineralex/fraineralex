@@ -1,6 +1,6 @@
 <p>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Frainer;Welcome+to+my+profile!&font=Fira%20Code&color=#007ACC&center=true&width=280&height=50">
-  <p>Just a guy driven by building amazing web experiences, writing typesafe and scalable code, and crafting really cool projects, mostly in TypeScript and Python.</p>
+  <p>Just a guy driven by building amazing web experiences, writing performant and scalable code, and crafting really cool projects, mostly in TypeScript and Python.</p>
 </p>
 
 - Take a look at my [website](https://www.fraineralex.dev/) to find out more about me.
@@ -9,7 +9,7 @@
 - I love contributing to open source projects.
 - Memes and gym sessions are my jam.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,html,css,react,nextjs,astro,nodejs,express,dotnet,tailwind,aws,firebase,vitest,docker,prisma,jest,selenium,sentry,graphql,redux,styledcomponents,mongodb,mysql,postgres,redis,sqlite,linux)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,html,css,react,nextjs,astro,nodejs,express,dotnet,tailwind,aws,firebase,cloudflare,vitest,docker,prisma,jest,selenium,graphql,redux,styledcomponents,mongodb,mysql,postgres,redis,sqlite,linux)](https://skillicons.dev) 
 
 Contact me through [LinkedIn](https://linkedin.com/in/fraineralex)  if you want to connect or get in touch. 🤝
 
