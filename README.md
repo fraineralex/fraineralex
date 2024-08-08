@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Frainer;I'm+a+fullstack+engineer!&font=Fira%20Code&color=#007ACC&center=true&width=280&height=50">
+  <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Frainer;I'm+a+fullstack+engineer!&font=Fira%20Code&color=#007ACC&center=true&width=280&height=50"> -->
   <p>Just a guy driven by building amazing web experiences, writing performant and scalable software, and crafting really cool projects, mostly in TypeScript and Python.</p>
 </p>
 
