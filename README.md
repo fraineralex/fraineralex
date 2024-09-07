@@ -8,7 +8,7 @@
 - Dive into my [blog](https://www.fraineralex.dev/blog) where I share insights and learnings.
 - I love open source, gym and memes.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,redux,jest,nextjs,nodejs,tailwind,aws,firebase,docker,postgres,mongo)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,redux,jest,nextjs,nodejs,tailwind,aws,firebase,docker,dotnet,postgres,mongo)](https://fraineralex.dev) 
 <!--[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,html,css,react,nextjs,astro,nodejs,express,dotnet,tailwind,aws,firebase,cloudflare,vitest,docker,prisma,jest,selenium,graphql,redux,styledcomponents,mongodb,mysql,postgres,redis,sqlite,linux)](https://skillicons.dev)--> 
 
 Contact me through [LinkedIn](https://linkedin.com/in/fraineralex)  if you want to connect or get in touch. 🤝
