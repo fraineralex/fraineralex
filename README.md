@@ -4,11 +4,11 @@
 </p>
 
 - Take a look at my [website](https://www.fraineralex.dev) to find out more about me.
-- Know about my experiences in my [resume](https://www.fraineralex.dev/resume.pdf).
 - Dive into my [blog](https://www.fraineralex.dev/blog) where I share insights and learnings.
+- I'm passionate about UI/UX design, databases and cloud.
 - I love open source, gym and memes.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,redux,jest,nextjs,nodejs,tailwind,aws,firebase,docker,dotnet,postgres,mongo)](https://fraineralex.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,aws,firebase,docker,postgres,mongo)](https://fraineralex.dev) 
 <!--[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,html,css,react,nextjs,astro,nodejs,express,dotnet,tailwind,aws,firebase,cloudflare,vitest,docker,prisma,jest,selenium,graphql,redux,styledcomponents,mongodb,mysql,postgres,redis,sqlite,linux)](https://skillicons.dev)--> 
 
 Contact me through [LinkedIn](https://linkedin.com/in/fraineralex)  if you want to connect or get in touch. 🤝
