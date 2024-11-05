@@ -1,19 +1,15 @@
-<p>
-  <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Frainer;I'm+a+fullstack+engineer!&font=Fira%20Code&color=#007ACC&center=true&width=280&height=50"> -->
-  <p>Just a guy driven by building amazing web experiences, writing performant and scalable software, and crafting really cool projects, mostly in TypeScript and Python.</p>
-</p>
+Just a guy driven by building amazing web experiences, writing performant and scalable software, and crafting really cool projects, mostly in TypeScript and Python.
 
-- Take a look at my [website](https://www.fraineralex.dev) to find out more about me.
-- Dive into my [blog](https://www.fraineralex.dev/blog) where I share insights and learnings.
-- I'm passionate about UI/UX design, databases and cloud.
-- I love open source, gym and memes.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,aws,firebase,docker,postgres,mongo)](https://fraineralex.dev) 
-<!--[![My Skills](https://skillicons.dev/icons?i=ts,js,py,cs,html,css,react,nextjs,astro,nodejs,express,dotnet,tailwind,aws,firebase,cloudflare,vitest,docker,prisma,jest,selenium,graphql,redux,styledcomponents,mongodb,mysql,postgres,redis,sqlite,linux)](https://skillicons.dev)--> 
+- Take a look at my [website](https://www.fraineralex.dev) to find out more about me
+- Dive into my [blog](https://www.fraineralex.dev/blog) where I share insights and learnings
+- I'm passionate about UI/UX design, databases and cloud
+- I love building stuff, lifting weights, and laughing at memes
 
-Contact me through [LinkedIn](https://linkedin.com/in/fraineralex)  if you want to connect or get in touch. 🤝
+Contact me through [LinkedIn](https://linkedin.com/in/fraineralex) or [Twitter](https://x.com/fraineralex) if you want to connect or get in touch. 🤝
 
 <!--<details>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,aws,firebase,docker,postgres,mongo)](https://fraineralex.dev) 
   <summary>Github Stats ⚡</summary>
   
   <img align="left" height="118" src="https://github-readme-stats.vercel.app/api?username=fraineralex&theme=blueberry&count_private=true&hide_border=true" alt="fraineralex" />
